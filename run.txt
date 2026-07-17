@@ -1,0 +1,2 @@
+http://localhost:8501
+for run the app use this link

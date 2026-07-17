@@ -1,0 +1,14 @@
+Alex Morgan
+alex.morgan@email.com
++1 555 0123
+
+Experience
+- Senior Python Developer with 6 years of experience building data pipelines and AI applications.
+- Built Streamlit dashboards and deployed ML models using Python, pandas, and scikit-learn.
+- Worked with Docker, AWS, and SQL in production systems.
+
+Skills
+Python, SQL, AWS, Docker, Streamlit, pandas, NumPy, Git
+
+Education
+B.Tech in Computer Science

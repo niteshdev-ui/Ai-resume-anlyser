@@ -1,0 +1,14 @@
+Priya Sharma
+priya.sharma@email.com
++91 98765 43210
+
+Experience
+- Software Engineer with 4 years of experience creating web applications and backend services.
+- Developed applications with JavaScript, React, Node.js, and REST APIs.
+- Collaborated with teams using Git and CI/CD practices.
+
+Skills
+JavaScript, React, Node.js, REST API, Git, CI/CD, SQL
+
+Education
+B.Sc. in Information Technology

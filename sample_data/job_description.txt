@@ -1,0 +1,1 @@
+We are looking for a Python developer with strong experience in machine learning, NLP, and cloud platforms. The ideal candidate should have expertise in Python, SQL, AWS, Docker, Streamlit, pandas, NumPy, and spaCy. Experience with AI systems, API design, and data pipelines is preferred.
